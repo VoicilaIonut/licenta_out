@@ -1,0 +1,142 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TEZ\u0102 DE DOCTO RAT\nIng. VARGA CSABA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          129.0,
+          228.55078125
+        ],
+        [
+          508.306640625,
+          228.55078125
+        ],
+        [
+          508.306640625,
+          338.765625
+        ],
+        [
+          129.0,
+          338.765625
+        ]
+      ]
+    },
+    {
+      "title": "Nr. decizie 370 din 18.09.2018",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          222.7763671875,
+          119.3402099609375
+        ],
+        [
+          363.6676330566406,
+          119.3402099609375
+        ],
+        [
+          363.6676330566406,
+          130.148193359375
+        ],
+        [
+          222.7763671875,
+          130.148193359375
+        ]
+      ]
+    },
+    {
+      "title": "COMISIA DE DOCTORAT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          226.810546875,
+          144.7801513671875
+        ],
+        [
+          359.3031311035156,
+          144.7801513671875
+        ],
+        [
+          359.3031311035156,
+          155.588134765625
+        ],
+        [
+          226.810546875,
+          155.588134765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          18
+        ],
+        [
+          "Span",
+          18
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/11007"
+}
