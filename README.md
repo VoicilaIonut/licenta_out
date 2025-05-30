@@ -23,3 +23,9 @@ Generated samples dataframe start with `FINAL_GEMINI_CHATGPT`:
 - DEFAULT - the default 3 prompts: 'rephrase', 'summarize', 'extract'
 - ADVERS - the 3 prompts using the adversarial prompts
 - FULL - both merged
+
+
+
+We use git lfs for processing the large files.
+
+The dataframes are larger than generated texts, we were prepared to generate ~45k samples with each model but we discovered the models do not improve with more samples.
