@@ -20,7 +20,7 @@ graph LR
 `dataframe_2800-5600ch_marker_chapters_FINAL_GEMINI.csv` are paragraphs extracted from the Markdown and used to generate text using Gemini.
 
 Generated samples dataframe start with `FINAL_GEMINI_CHATGPT`:
-- DEFAULT - the default 3 prompts: 'rephrase', 'summarize', 'extract'
+- DEFAULT - the default 3 prompts: 'rephrase', 'summarize', 'continue'
 - ADVERS - the 3 prompts using the adversarial prompts
 - FULL - both merged
 
